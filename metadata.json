@@ -1,0 +1,6 @@
+{
+  "name": "Text to Audio Script Converter",
+  "description": "Convert Nepali and English educational scripts into high-quality audio files using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
